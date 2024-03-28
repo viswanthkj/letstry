@@ -1,5 +1,11 @@
 ### Todo
 
+
+# 28-03-2024
+
 - Create an expo app
-- Initialize the git
+- Initialize the git - https://medium.com/react-native-institute/how-to-use-git-with-react-native-687c12431e36
+
+
+# Next
 - Create app icon and splash screen
