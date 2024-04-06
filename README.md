@@ -7,5 +7,8 @@
 - Initialize the git - https://medium.com/react-native-institute/how-to-use-git-with-react-native-687c12431e36
 
 
-# Next
+# 6-4-24
 - Create app icon and splash screen
+
+# Next
+- expo router
