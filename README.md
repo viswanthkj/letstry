@@ -10,5 +10,8 @@
 # 6-4-24
 - Create app icon and splash screen
 
+# 14-4-24
+- expo router - basic setup
+
 # Next
-- expo router
+- expo router - deep understanding
